@@ -1,0 +1,7 @@
+I have problem with the json writer, i cant transform object to string
+
+Better understanding how to work with list.
+learning lambda expresions.
+learning IEnumerable
+
+
